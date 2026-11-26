@@ -1,0 +1,13 @@
+# WHY: Prevent sensitive credentials from being uploaded.
+.env
+
+# WHY: Ignore Python cache files.
+__pycache__/
+*.pyc
+
+# WHY: Ignore virtual environments.
+venv/
+.venv/
+
+# WHY: Ignore IDE settings.
+.vscode/
