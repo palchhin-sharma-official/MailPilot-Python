@@ -1,4 +1,3 @@
-
 # Gmail Automation System
 
 A Python-based Gmail Automation System that allows users to send emails through Gmail using SMTP.
@@ -44,7 +43,7 @@ Gmail-Automation/
 
 1. Clone the repository.
 
-   git clone 
+   git clone https://github.com/palchhin-sharma-official/MailPilot-Python.git
 
 2. Open the project folder.
 
